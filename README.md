@@ -47,3 +47,9 @@ Reward structures emphasizing forward movement were critical for overcoming terr
 # Results and Insights:
 
 The project demonstrated the importance of tailored reward functions and hyperparameter optimization in enhancing the capabilities of RL agents. Comparative analysis revealed that while certain environment modifications (like feet) were less effective, properly tuned agents performed significantly better in challenging scenarios.
+
+
+
+
+![image](https://github.com/user-attachments/assets/6aed05f9-797c-4bc0-98a0-e1a5b98ae4b1)
+
