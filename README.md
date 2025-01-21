@@ -51,5 +51,10 @@ The project demonstrated the importance of tailored reward functions and hyperpa
 
 
 
-![image](https://github.com/user-attachments/assets/6aed05f9-797c-4bc0-98a0-e1a5b98ae4b1)
+
+https://github.com/user-attachments/assets/0e20d54a-4e7c-48a5-82bf-54b21b92e646 [ Control- SAC with no rewards]
+
+
+
+
 
